@@ -1,0 +1,24 @@
+p{
+  font-size: 25px;
+    background: gray;
+    color:midnightblue;
+}
+
+h1{
+    background: aquamarine;
+    color:navy;
+}
+
+h2{
+    background: cornflowerblue;
+    color: black;
+}
+
+li{
+    background: antiquewhite;
+    color: black;
+}
+
+img{
+    width: 350px;
+}
