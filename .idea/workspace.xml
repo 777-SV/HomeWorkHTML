@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="69a0669f-ffe1-4568-b346-1e0eefeb0b44" name="Default Changelist" comment="add CSS">
+    <list default="true" id="69a0669f-ffe1-4568-b346-1e0eefeb0b44" name="Default Changelist" comment="add Homer and Bart info">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/index.html" afterDir="false" />
     </list>
@@ -64,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674838217150</updated>
       <workItem from="1674838218290" duration="2004000" />
-      <workItem from="1674851199662" duration="3987000" />
+      <workItem from="1674851199662" duration="5023000" />
     </task>
     <task id="LOCAL-00001" summary="add1">
       <created>1674839375479</created>
@@ -94,18 +112,37 @@
       <option name="project" value="LOCAL" />
       <updated>1674839881943</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add Homer and Bart info">
+      <created>1674856281605</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674856281605</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add1" />
     <MESSAGE value="add h1" />
     <MESSAGE value="add p" />
     <MESSAGE value="add CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="add CSS" />
+    <MESSAGE value="add Homer and Bart info" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Homer and Bart info" />
   </component>
   <component name="WindowStateProjectService">
     <state x="173" y="90" key="#Project_Structure" timestamp="1674838232180">
@@ -124,9 +161,9 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="461" y="161" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1674839955215" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1674839886016">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1674856286355">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1674839886016" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1674856286355" />
   </component>
 </project>
