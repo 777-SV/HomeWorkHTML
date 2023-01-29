@@ -1,24 +1,24 @@
-p{
-  font-size: 25px;
+p {
+    font-size: 25px;
     background: gray;
-    color:midnightblue;
+    color: midnightblue;
 }
 
-h1{
+h1 {
     background: aquamarine;
-    color:navy;
+    color: navy;
 }
 
-h2{
+h2 {
     background: cornflowerblue;
     color: black;
 }
 
-li{
+li {
     background: antiquewhite;
     color: black;
 }
 
-img{
+img {
     width: 350px;
 }
